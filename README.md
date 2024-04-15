@@ -1,7 +1,7 @@
 
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/SaddamShah92/Bakery-Website/assets/129947606/52f46cc3-8a9f-46f2-befa-ac0db3bde512)
 
 
 # Web Scraping 
